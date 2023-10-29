@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://myfolioonweb.netlify.app/](https://myfolioonweb.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://myfolionline.vercel.app/](https://myfolionline.vercel.app/)
 
 - 💬 Ask me about **Flutter, MERN, SQL**
 
